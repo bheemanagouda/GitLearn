@@ -13,3 +13,6 @@
 # git show v0.0.1
 # git tag v0.1-lw
 # git show v0.1-lw
+# git brach branch_name
+# git checkout branch_name
+# git push --set-upstream origin branch_name 
